@@ -1,0 +1,5 @@
+"Pokemon"
+"Mario"
+"The Legend of Zelda"
+"Fire Emblem"
+"Smash bros"
